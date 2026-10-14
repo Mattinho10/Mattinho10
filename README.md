@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Meshach Ezeh 👋
 
-<!--
-**Mattinho10/Mattinho10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI data annotation and quality evaluation specialist and founder of EduArchive AI, based in Nigeria.
 
-Here are some ideas to get you started:
+## What I do
+- 3+ years of AI data annotation and quality evaluation on CrowdGen (Appen)
+- Fact-checking, bias detection, sentiment labeling and NER
+- Built EduArchive AI, an AI-powered platform for teachers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [EduArchive AI](https://eduarchiveai.vercel.app): lesson plans, worksheets, workbooks and rubrics in multiple languages (source code is private)
+
+## Languages
+English (fluent), Igbo (native)
+
+## Contact
+- ezehtech7@gmail.com
+- [LinkedIn](https://linkedin.com/in/meshach-ezeh-830b952a4)
